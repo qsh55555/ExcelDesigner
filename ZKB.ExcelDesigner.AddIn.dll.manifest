@@ -332,29 +332,50 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZKB.ExcelDesigner.AddIn.dll" size="181248">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZKB.ExcelDesigner.AddIn.dll" size="204800">
       <assemblyIdentity name="ZKB.ExcelDesigner.AddIn" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DLOTiNiBoQPlm3mjwmb8zZT3zRFXk502dpy+j6CUZfs=</dsig:DigestValue>
+        <dsig:DigestValue>Sj3KtGPpJM5nzOw99t0APhgGtxQr7csvC2RPvIQHjDQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZKB.ExcelDesigner.Configuration.dll" size="12800">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZKB.ExcelDesigner.Configuration.dll" size="15872">
       <assemblyIdentity name="ZKB.ExcelDesigner.Configuration" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Nj54njK/MGoVPrzI2bygPZvMr2+MuV+ZK9oVTdaCzqE=</dsig:DigestValue>
+        <dsig:DigestValue>+GA9K1UHJMJoJk/JVCv29pFsESP09vx+PHqcWSsSg78=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ZKB.ExcelDesigner.UI.dll" size="19968">
+      <assemblyIdentity name="ZKB.ExcelDesigner.UI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7kuiCMqmNligaeR47Eduo1LG+IgODpe+9ieNtiToJOk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Icons\AutoApplyFormat.png" size="1335">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>oVGEmzlITg6+qM0dtJ6nDFv1JvHSVFwj5sctQo0Qr/I=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Icons\ColorMenu.png" size="48719">
     <hash>
       <dsig:Transforms>
@@ -362,6 +383,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>6tplFUIE/sJDO/bg1sEEZMFxo6foKmqbvemxx5zNzsI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Icons\ResetFormat.png" size="12105">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p810xeOOZiILTxo+DkakCQQfF48+yEdefuSf3sF7a1M=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Icons\ResizeFrameOption_13p.png" size="2296">
@@ -418,6 +448,15 @@
       <dsig:DigestValue>+IWqZYu1P39H6pxlD4WkvUFVpjYLUGh63gDgNveeDBc=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Icons\TablesButton.png" size="757">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Z9as9GoO8VddnqPu41wXV0AYUxohTft4qmRQ24Cb0/c=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Icons\TableTemplateGallery.png" size="1212">
     <hash>
       <dsig:Transforms>
@@ -427,13 +466,13 @@
       <dsig:DigestValue>7l2jHrWkYnnaTXmgK1cxFZhigErE7aODHFB1EZHGups=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ZKB.ExcelDesigner.AddIn.dll.config" size="1513">
+  <file name="ZKB.ExcelDesigner.AddIn.dll.config" size="1495">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AgpRACxrLzGz50g/qq1ZRTMzFTUOsioBlr3AnCZudGc=</dsig:DigestValue>
+      <dsig:DigestValue>ZxOU7D7parjVt1nwgXVrYATpMGTmu9VcMLS6qKl5JKg=</dsig:DigestValue>
     </hash>
   </file>
   <vstav3:addIn xmlns:vstav3="urn:schemas-microsoft-com:vsta.v3">
@@ -459,4 +498,4 @@
       </vstov4:customizations>
     </vstav3:application>
   </vstav3:addIn>
-<publisherIdentity name="CN=CORP\flury" issuerKeyHash="43ff83570e22bcadc922aeea3083955cc61881fc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>QFa0lyCdVzDBKG80Mh+ggihGdStx9Gk5C6Qg/pcUgJ0=</DigestValue></Reference></SignedInfo><SignatureValue>psPeeHyK+UDZT5ez2V3k0cFv+wlvOe4FXaqEwGY5iN8HyEGSEkpvdM+39keOwg1mvSNB+0qqsUnkW+D8XX6IqwGZrrGiKKlCzVTCl5h2HrcMVdGk3BV20oxnAACtM61ujx+v2Teq5I0klAgVSQEQLPbG41gArvDXWhos1eFqgF4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rwd03diMd66ZwISAuyYPnWol+uvob/9TGOZb1jzcZ7SUMDZRptoTtpl9IiDXH8pHzyuzVIuvAIhueoCEjv7NCvo15giXb0UxPeckj0sCmE76YLzXfKQgHcmkjVzelpOdUf01bOSnLm5NgeA37L8dfW6Ty5p50jrqk5uJYHjq8VU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9d801497fe20a40b3969f4712b75462882a01f32346f28c130579d2097b45640" Description="" Url=""><as:assemblyIdentity name="ZKB.ExcelDesigner.AddIn.dll" version="1.0.0.0" publicKeyToken="d684496794d1b55e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CORP\flury</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>abz70UCNS30uizThnDrED5IFdi1bz4LTeBnMup5FEk8=</DigestValue></Reference></SignedInfo><SignatureValue>Xq4IRfgrqm/oU8L1vJlaF2cYWIzVO8uJiP2B7LN90WeAh/NcbXsoRfmKq6NLQBFLqHG9Fr0RdpAI5KIomFnP0ApPOAE+BMGv8omxOitMZ0cDACzU2gemoFYMdzn3UcddregHrdI9LKSr3VneNeTHipdzDfVS9ZUMdz/nfZeHOY4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rwd03diMd66ZwISAuyYPnWol+uvob/9TGOZb1jzcZ7SUMDZRptoTtpl9IiDXH8pHzyuzVIuvAIhueoCEjv7NCvo15giXb0UxPeckj0sCmE76YLzXfKQgHcmkjVzelpOdUf01bOSnLm5NgeA37L8dfW6Ty5p50jrqk5uJYHjq8VU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQJfaUmbySM4NNbvPSahXo2DANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAQwBPAFIAUABcAGYAbAB1AHIAeTAeFw0yMzA3MTIxMDE4MDFaFw0yNDA3MTExNjE4MDFaMB8xHTAbBgNVBAMeFABDAE8AUgBQAFwAZgBsAHUAcgB5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvB3Td2Ix3rpnAhIC7Jg+daiX66+hv/1MY5lvWPNxntJQwNlGm2hO2mX0iINcfykfPK7NUi68AiG56gISO/s0K+jXmCJdvRTE95ySPSwKYTvpgvNd8pCAdyaSNXN6Wk51R/TVs5Kcubk2B4Dfsvx19bpPLmnnSOuqTm4lgeOrxVQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAIQO4ncY1BDUoNZAE+lR7vqTE/41FsEThYaSAOOQ4FPC7cfiTg33zeIUWsc74JA+xsthhI9sqpTFt3xwCi68N0yNI7kFaPs8iFWZvmdIrUbj0ItcAgfPXAoMigHaxgeV9hH8ipd4+UdhyurR6dHgZCbPVz1mwMH/ZsNWYekPQu4y</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=CORP\flury" issuerKeyHash="43ff83570e22bcadc922aeea3083955cc61881fc" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>WQVXvIYgsVtSOoNh0npzOCTzvpoEmVLABAcHUQXsxIo=</DigestValue></Reference></SignedInfo><SignatureValue>Kn8rmV2cQBSytSCNU9Wdcq4oC79H72Fwcftq0UM/GUwguivxJhGpT2xH4bIXI3MaL6u1qZueO6GKuLRogPjIvQd0rYNMs/k0cOaKg+m6cbajWS+x+sj5GBlpZpzlmGp+wxUj84PVEqzsljaI+4gl0lOdVvwREDs6s4ASLHqsgNQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rwd03diMd66ZwISAuyYPnWol+uvob/9TGOZb1jzcZ7SUMDZRptoTtpl9IiDXH8pHzyuzVIuvAIhueoCEjv7NCvo15giXb0UxPeckj0sCmE76YLzXfKQgHcmkjVzelpOdUf01bOSnLm5NgeA37L8dfW6Ty5p50jrqk5uJYHjq8VU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="8ac4ec0551070704c05299049abef32438737ad261833a525bb12086bc570559" Description="" Url=""><as:assemblyIdentity name="ZKB.ExcelDesigner.AddIn.dll" version="1.0.0.0" publicKeyToken="d684496794d1b55e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CORP\flury</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>BmU/abPE9i5N+214YgLyoybA4qQhaIeSvb5fOd24PmY=</DigestValue></Reference></SignedInfo><SignatureValue>E6oeSYTk2lwqDsk+smsEzC7wgUhLSPabDurHKN7tbQ4Q2nZyNAntqKQmmAg/danswPNssevkifvWc7vLdjphXvYDLE+2hXBzeNFVAljhdaIaLUECZWpRVAAJ/UYD44zuPfw9gRl9Bp1nm1Hzb0iUtX7MGQw6jTJor0bAlaf4crw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rwd03diMd66ZwISAuyYPnWol+uvob/9TGOZb1jzcZ7SUMDZRptoTtpl9IiDXH8pHzyuzVIuvAIhueoCEjv7NCvo15giXb0UxPeckj0sCmE76YLzXfKQgHcmkjVzelpOdUf01bOSnLm5NgeA37L8dfW6Ty5p50jrqk5uJYHjq8VU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQJfaUmbySM4NNbvPSahXo2DANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAQwBPAFIAUABcAGYAbAB1AHIAeTAeFw0yMzA3MTIxMDE4MDFaFw0yNDA3MTExNjE4MDFaMB8xHTAbBgNVBAMeFABDAE8AUgBQAFwAZgBsAHUAcgB5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvB3Td2Ix3rpnAhIC7Jg+daiX66+hv/1MY5lvWPNxntJQwNlGm2hO2mX0iINcfykfPK7NUi68AiG56gISO/s0K+jXmCJdvRTE95ySPSwKYTvpgvNd8pCAdyaSNXN6Wk51R/TVs5Kcubk2B4Dfsvx19bpPLmnnSOuqTm4lgeOrxVQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAIQO4ncY1BDUoNZAE+lR7vqTE/41FsEThYaSAOOQ4FPC7cfiTg33zeIUWsc74JA+xsthhI9sqpTFt3xwCi68N0yNI7kFaPs8iFWZvmdIrUbj0ItcAgfPXAoMigHaxgeV9hH8ipd4+UdhyurR6dHgZCbPVz1mwMH/ZsNWYekPQu4y</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
